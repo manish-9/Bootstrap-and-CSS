@@ -117,6 +117,10 @@ h1 {
   text-align: center;
 }
 
+#carouselExampleIndicators {
+  height: 430px;
+}
+
 .carousel-inner {
   /* background-color: #abc9ff; */
   background-color: ;
